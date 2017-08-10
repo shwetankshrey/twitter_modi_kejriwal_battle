@@ -1,0 +1,16 @@
+{"_id":{"$oid":"598bd381726c5c9f75a46031"},"city":"Gwalior","tweets":"1"}
+{"_id":{"$oid":"598bd381726c5c9f75a46032"},"city":"India","tweets":"10007"}
+{"_id":{"$oid":"598bd381726c5c9f75a46033"},"city":"Jaipur","tweets":"1"}
+{"_id":{"$oid":"598bd381726c5c9f75a46034"},"city":"Pune","tweets":"1"}
+{"_id":{"$oid":"598bd381726c5c9f75a46035"},"city":"Greater Noida","tweets":"1"}
+{"_id":{"$oid":"598bd381726c5c9f75a46036"},"city":"Meerut","tweets":"1"}
+{"_id":{"$oid":"598bd381726c5c9f75a46037"},"city":"Chennai","tweets":"1"}
+{"_id":{"$oid":"598bd381726c5c9f75a46038"},"city":"Pratapgarh City","tweets":"1"}
+{"_id":{"$oid":"598bd381726c5c9f75a46039"},"city":"Sonipat","tweets":"1"}
+{"_id":{"$oid":"598bd381726c5c9f75a4603a"},"city":"Mumbai","tweets":"2"}
+{"_id":{"$oid":"598bd381726c5c9f75a4603b"},"city":"Vadodara","tweets":"1"}
+{"_id":{"$oid":"598bd381726c5c9f75a4603c"},"city":"Indore","tweets":"1"}
+{"_id":{"$oid":"598bd381726c5c9f75a4603d"},"city":"Bhubaneswar","tweets":"1"}
+{"_id":{"$oid":"598bd381726c5c9f75a4603e"},"city":"Khair","tweets":"1"}
+{"_id":{"$oid":"598bd381726c5c9f75a4603f"},"city":"New Delhi","tweets":"1"}
+{"_id":{"$oid":"598bd381726c5c9f75a46040"},"city":"Nagpur","tweets":"1"}
