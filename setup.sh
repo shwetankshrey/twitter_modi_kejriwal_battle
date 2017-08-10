@@ -10,7 +10,7 @@ python type_count.py # Distributed according to types of content.
 mongoexport --db kejri_modi --collection all_tweets --out dumped_dbs/all_tweets.json
 mongoexport --db kejri_modi --collection category_count --out dumped_dbs/category_count.json
 mongoexport --db kejri_modi --collection hash_count --out dumped_dbs/hash_count.json
-mongoexport --db kejri_modi --collection hash_count --out dumped_dbs/fav_count.json
+mongoexport --db kejri_modi --collection fav_count --out dumped_dbs/fav_count.json
 mongoexport --db kejri_modi --collection location_count --out dumped_dbs/location_count.json
 mongoexport --db kejri_modi --collection type_count --out dumped_dbs/type_count.json
 # Starting the Flask server.
