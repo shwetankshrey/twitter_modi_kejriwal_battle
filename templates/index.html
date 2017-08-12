@@ -72,7 +72,7 @@
                 var data4 = google.visualization.arrayToDataTable([
                     ["Favorite Count", "Tweets", { role: "style" } ],
                     {% for fv in fav_count %}
-                    ["<{{ fv["favs"] }}", {{ fv["count"] }}, "black"],
+                    [">{{ fv["favs"] }}", {{ fv["count"] }}, "black"],
                     {% endfor %}
                 ]);
 
